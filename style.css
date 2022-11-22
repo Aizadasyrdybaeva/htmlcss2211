@@ -1,3 +1,17 @@
 * {
   box-sizing: border-box;
 }
+main{
+  display: flex;
+  flex-wrap: wrap;
+}
+header{
+  background-color: azure;
+}
+aside{
+  background-color: rgb(104, 69, 27);
+flex:0 0 250px;
+}
+article{
+  background-color: rgb(104, 69, 27);
+}
